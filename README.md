@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Assignment 2 part 2
+Small assignment to get us familiar to Bootstrap
